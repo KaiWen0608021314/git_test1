@@ -5,5 +5,6 @@ int main(void) {
     printf("哈囉！C 語言！\n");
     printf("git test1！\n");
     printf("cat1！\n");
+    printf("cat2！\n");
     return 0;
 }
